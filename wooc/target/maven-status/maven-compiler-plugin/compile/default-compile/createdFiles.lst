@@ -1,0 +1,5 @@
+com/wclp/wooc/repository/QuestionRepository.class
+com/wclp/wooc/WoocApplication.class
+com/wclp/wooc/model/Question.class
+com/wclp/wooc/controller/QuestionController.class
+com/wclp/wooc/service/QuestionService.class
