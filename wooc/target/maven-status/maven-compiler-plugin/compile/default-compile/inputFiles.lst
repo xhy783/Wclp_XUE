@@ -1,5 +1,6 @@
-/Users/xuehanyu/Desktop/etude/emse/Programmation/rat/wooc/src/main/java/com/wclp/wooc/WoocApplication.java
-/Users/xuehanyu/Desktop/etude/emse/Programmation/rat/wooc/src/main/java/com/wclp/wooc/model/Question.java
-/Users/xuehanyu/Desktop/etude/emse/Programmation/rat/wooc/src/main/java/com/wclp/wooc/repository/QuestionRepository.java
-/Users/xuehanyu/Desktop/etude/emse/Programmation/rat/wooc/src/main/java/com/wclp/wooc/service/QuestionService.java
-/Users/xuehanyu/Desktop/etude/emse/Programmation/rat/wooc/src/main/java/com/wclp/wooc/controller/QuestionController.java
+/Users/xuehanyu/Documents/GitHub/Wclp_XUE/wooc/src/main/java/com/wclp/wooc/repository/QuestionRepository.java
+/Users/xuehanyu/Documents/GitHub/Wclp_XUE/wooc/src/main/java/com/wclp/wooc/config/GlobalCorsConfig.java
+/Users/xuehanyu/Documents/GitHub/Wclp_XUE/wooc/src/main/java/com/wclp/wooc/model/Question.java
+/Users/xuehanyu/Documents/GitHub/Wclp_XUE/wooc/src/main/java/com/wclp/wooc/service/QuestionService.java
+/Users/xuehanyu/Documents/GitHub/Wclp_XUE/wooc/src/main/java/com/wclp/wooc/controller/QuestionController.java
+/Users/xuehanyu/Documents/GitHub/Wclp_XUE/wooc/src/main/java/com/wclp/wooc/WoocApplication.java
